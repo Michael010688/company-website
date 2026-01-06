@@ -10,7 +10,6 @@
   --shadow: 0 18px 50px rgba(0,0,0,.45);
   --radius:18px;
 
-  /* ✅ Hero 背景：你已经放在 public/images/hero.jpg */
   --hero-bg: url("/images/hero.jpg");
 }
 
