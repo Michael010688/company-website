@@ -171,7 +171,7 @@ export default function App() {
         id: "qin",
         name: "Qin Shuozhe",
         role: "Frontend Developer",
-        photo: "/images/qin.jpg",
+        photo: "images/qin.jpg",
         short: "Built the UI layout, navigation, and page sections using React, focusing on a corporate homepage style.",
         modalTitle: "Qin Shuozhe — Frontend Developer",
         modalPara:
@@ -186,7 +186,7 @@ export default function App() {
         id: "xie",
         name: "Xie Zhaopeng",
         role: "Backend / Documentation",
-        photo: "/images/xie.jpg",
+        photo: "images/xie.jpg",
         short: "Prepared documentation and supported content structure, ensuring clarity and completeness for submission.",
         modalTitle: "Xie Zhaopeng — Backend / Documentation",
         modalPara:
