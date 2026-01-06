@@ -431,7 +431,7 @@ export default function App() {
 
           <div className="videoContainer">
             <video className="companyVideo" controls preload="metadata">
-              <source src="/Company.mp4" type="video/mp4" />
+              <source src="Company.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <div className="videoCaption">Corporate Introduction • Building the Future</div>
